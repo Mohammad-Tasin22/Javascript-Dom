@@ -52,3 +52,6 @@ button.forEach(function(value){
        body.style.backgroundColor = color;
    });
 });
+
+//Live : 
+    file:///C:/Users/HP/OneDrive/Desktop/Dom1/index.html
